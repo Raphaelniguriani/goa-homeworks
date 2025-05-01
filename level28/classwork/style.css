@@ -1,0 +1,21 @@
+.div_1{
+    
+    background-color: aqua;
+    width: 200px;
+   
+    height: 200px;
+    border-color: brown;
+    border-width: 100px;
+    margin:20px ;
+    
+}
+
+
+.div_2{
+    background-color: blueviolet;
+    width: 200px;
+   
+    height: 200px;
+    margin: 20px;
+
+}

@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    background-color: cornsilk;
+    align-items: center;
+}
+
+#product{
+   
+    text-align: center;
+    border:3px solid;
+    border-color: cadetblue;
+    width: 270px;
+    border-radius: 30px;
+    background-color: rgb(226, 220, 149);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:50px auto;
+    
+
+}
+img{
+    border-radius: 50px;
+    padding: 20px;
+    font-size: 20em;
+    
+    width: 100px;
+    
+    
+}
+button{
+    font-family: fantasy;
+    margin-bottom: 20px;
+    background-color: cadetblue;
+    
+   
+}
+    
+
