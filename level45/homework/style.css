@@ -1,0 +1,40 @@
+
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+.peoplediv{
+    position: relative;
+    top: 250px;
+    right: 1200px;
+    margin: 70px;
+    border: 2px solid;
+    height: 300px;
+    width: 500px;
+}
+
+
+
+#mainstar{
+    margin-left: 150px;
+
+}
+
+.stardiv{
+    margin: 30px;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid;
+    height: 50px;
+    width: 350px;
+    
+}
+
+img{
+    height: 30px;
+    width: 30px;
+}
+

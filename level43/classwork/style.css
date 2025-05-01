@@ -1,0 +1,27 @@
+:root{
+    --color:red;
+    --fontf:cursive;
+    --backcolo:purple;
+    --fontsice:2em;
+    --letspa:center;
+    --marg:20px;
+    --padd:20px;
+    --move:200px;
+    --duration:3s;
+    --pos:20px
+
+}  
+
+.hi{
+    color: var(--color);
+    font-family: var(--fontf);
+    background-color: var(--backcolo);
+    font-size: var(--fontsice);
+    letter-spacing: var(--letspa);
+    margin: var(--marg);
+    padding: var(--padd);
+    transform: translate(var(--move));
+    transition-duration:var(--duration) ;
+    position: relative;
+    top: var(--pos);
+}

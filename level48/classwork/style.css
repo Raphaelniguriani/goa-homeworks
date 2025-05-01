@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    height: 100vh;
+}
+
+header,main,nav,footer,aside{
+    border: 2px solid cadetblue;
+    background-color: rgb(84, 216, 172);
+
+}
+body{
+    display: grid;
+    grid-template-areas:
+    'header header header'
+    'nav main aside'
+    'footer footer footer';
+   
+}
+
+header{
+    grid-area: header;
+}
+
+main{
+    grid-area: main;
+}
+nav{
+    grid-area: nav;
+}
+footer{
+    grid-area: footer;
+}
+aside{
+    grid-area: aside;
+}

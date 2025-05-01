@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(15, 117, 117);
+
+}
+img{
+    height: 250px;
+
+}
+
+div{
+    background-color: aliceblue;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    left: 90px;
+    border-radius: 10%;
+    
+}
+
+#blueimg{
+    border-radius: 10%;
+    width:400px ;
+    height: 200px;
+}
+
+#tipi{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 160px;
+    bottom: 35px;
+
+
+}
+
+h1{
+    margin-left: 90px;
+    position: relative;
+    bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+

@@ -1,0 +1,40 @@
+body{
+    background-image:url(vecteezy_abstract-background-vector_6793307-e1656011028842.webp);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    border: 2px solid rgb(14, 107, 110);
+    padding: 100px;
+    background-color: rgb(25, 124, 170);
+    border-radius: 10%;
+}
+
+div{
+    border: 3px solid rgb(10, 78, 105);
+    background-color: rgb(49, 87, 170);
+    border-radius: 5%;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+button{
+    border: 3px blue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 170px;
+    background-color: aqua;
+
+   
+}
+
+input{
+    background-color: rgb(14, 40, 112);
+    font-family: 'Courier New', Courier, monospace;
+}

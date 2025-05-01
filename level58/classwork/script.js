@@ -1,0 +1,10 @@
+let x = prompt("enter a nummber:")
+let y = prompt("enter a second number:")
+
+console.log(x > y)
+console.log(x < y)
+console.log(x >= y)
+console.log(x <= y)
+console.log(x == y)
+console.log(x !=y)
+console.log(x === String(y))
