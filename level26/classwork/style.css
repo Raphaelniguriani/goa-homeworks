@@ -1,0 +1,14 @@
+.h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    text-decoration: wavy;
+    text-transform: uppercase;
+}
+
+
+.h2{
+    color: rgb(rgba(85, 0, 255, 0.512), green, blue);
+    font-size: 50px;
+    
+}

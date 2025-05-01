@@ -1,0 +1,11 @@
+.h1{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+.h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
