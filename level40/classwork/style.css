@@ -1,0 +1,23 @@
+div{
+    border: 2px solid cadetblue;
+    background-color: cadetblue;
+    color: orange;
+    font-size: 2em;
+    width: 300px;
+    border-radius: 20px;
+    transition: 2s 1s cubic-bezier(0.075, 0.82, 0.165, 1) all;
+    transition-duration:2s ;
+    transition-property: all;
+    transition-delay:1s ;
+    transition-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1) ;
+
+}
+
+div:hover{
+    background-color: blueviolet;
+    border-radius: 50%;
+    transform: rotate(360deg);
+    transform: scale(2);
+
+
+}

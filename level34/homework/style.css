@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-color: crimson;
+}
+
+
+table{
+     border-collapse: collapse;
+     width: 370px;
+     padding: 9px;
+     text-align: center;
+     margin-left: 59px;
+}
+
+th{
+    background-color: aqua;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+tr:nth-child(2){
+    color: blueviolet;
+    background-color: rgba(43, 10, 75, 0.438);
+}
+tr:nth-child(3){
+    color: rgb(226, 141, 43);
+    background-color: rgba(193, 162, 7, 0.438);
+}
+tr:nth-child(4){
+    color: rgb(226, 43, 119);
+    background-color: rgba(10, 73, 75, 0.438);
+}

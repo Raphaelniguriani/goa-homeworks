@@ -1,0 +1,10 @@
+div{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 20px;
+    background-color: orange;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    width: 80px;
+    display: inline-block;
+}

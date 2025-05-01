@@ -1,0 +1,42 @@
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(46, 37, 228);
+    font-size: medium;
+
+}
+
+a:active{
+    font-size: large;
+}
+
+a:hover{
+    font-size: large;
+}
+
+a:visited{
+    font-size: large;
+}
+
+#a1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+#a1:active{
+    font-size: x-large;
+    color: blueviolet;
+
+}
+
+
+#a1:visited{
+    font-size: x-large;
+    color: blueviolet;
+
+}
+
+#a1:hover{
+    font-size: x-large;
+    color: blueviolet;
+
+}

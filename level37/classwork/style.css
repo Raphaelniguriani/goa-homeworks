@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(9, 162, 111);
+}
+
+#topdiv{
+    border: 10px solid rgb(5, 73, 107);
+    height: 50px;
+    background-color: rgb(10, 101, 147);
+    position: sticky;
+    top: -10px;
+    border-radius: 20px;
+
+}
+
+h1{
+    margin: auto;
+    position: relative;
+    left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    
+}
+
+#seconddiv{
+    border: 10px solid greenyellow;
+    position: relative;
+    top: 20px;
+    width: 100px;
+    height: 90px;
+    background-color: chartreuse;
+    border-radius: 20px;
+}
+
+button{
+    padding: auto;
+    position: relative;
+    top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: solid rgb(71, 124, 7);
+}
+

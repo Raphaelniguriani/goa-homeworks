@@ -1,0 +1,16 @@
+div{
+    border: 2px solid blueviolet;
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    color:  red;
+    transition: 5s;
+}
+
+div:hover{
+    
+    transform: rotate(360deg)  translate(70px, 70px) scale(0.5) skew(30deg);
+}
